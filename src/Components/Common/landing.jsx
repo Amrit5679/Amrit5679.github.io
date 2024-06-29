@@ -30,7 +30,7 @@ const LandingPage = () => {
       >
         <Box sx={{ textAlign: "center", mt: 4 }}>
           <Typography variant="h2" sx={{fontFamily: 'Roboto', color: 'white'}} gutterBottom>
-            The Simplese Way To
+            The Simplest Way To
           </Typography>
           <Typography variant="h2" sx={{fontFamily: 'Roboto', color: 'white'}} gutterBottom>
             Manage Events
